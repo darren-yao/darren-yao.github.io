@@ -1,11 +1,11 @@
-I"�/<h2 id="some-frequently-and-not-so-frequently-asked-questions-about-the-usa-computing-olympiad">Some frequently (and not-so-frequently) asked questions about the USA Computing Olympiad.</h2>
+I"'.<h2 id="some-frequently-and-not-so-frequently-asked-questions-about-the-usa-computing-olympiad">Some frequently (and not-so-frequently) asked questions about the USA Computing Olympiad.</h2>
 
 <p>Hello, everyone!</p>
 
 <p>My name is Darren Yao, and I’m a current competitor in the USACO Platinum division (top ~200 US). I’m also the author of the book An Introduction to the USA Computing Olympiad, a core contributer to the USACO Guide and CPI projects, among other things.</p>
 
 <p>Recently, I’ve received a number of questions along the lines of “how do I get better at programming contests?,” or “how do I achieve X rank in Y time,” from beginners. Anyway, due to the drastic increase in new competitors I’m seeing lately, I decided to write some articles on programming olympiads, perhaps as a programming counterpart to Evan Chen’s math blog, because I think it’d be helpful. 
-By far the most common question I receive is “can I get from beginner level to Platinum in a year?” I mostly get this from beginners, and probably as a result of the fact that quarantine killed most people’s extracurricular activities, so they’re looking for some resume padding for their college applications. To answer the question: yes, it’s possible (I did it in eight months). However, if you really want to do this, you’ll need to be extremely dedicated and productive. Furthermore, you should know that if you’re only doing programming competitions out of a desire to look good on college applications, and don’t actually enjoy the process, you will likely burn out and end up nowhere. Consider yourself warned.</p>
+By far the most common question I receive is “can I get from some level to some higher level in some amount of time?” I mostly get this from beginners, and probably as a result of the fact that quarantine killed a lot of extracurriculars, so students are looking for something else to do. To answer the question: advancing fast in programming competitions is certainly possible, but you’ll need to be extremely dedicated and productive. You’ll also need to make sure that you don’t burn yourself out, so consider yourself warned about that.</p>
 
 <p>Welcome to the world of competitive programming! I’m going to start off by reiterating a phrase seen often on AoPS: stop looking for the “right” training. There certainly does not exist a method that will guarantee you X rank in Y amount of time, because as with all contests, there are other factors involved: luck, innate talent, efficiency and productivity of your training time, and so forth. Most importantly, everyone learns differently, and your training should be structured around your own strengths and weaknesses so that it fits you. That being said, I’m going to provide some useful resources below. Readers are encouraged to use their best judgement and skip around the books or go through chapters faster or slower as they see fit; in the end, it is up to you to make your own learning effective.</p>
 
@@ -40,13 +40,11 @@ Python is the easiest to learn, but it also runs slowly, which is often problema
 
 <p>There’s also <a href="https://usaco.guide/">USACO Guide</a>, which is a free collection of curated, high-quality resources covering topics from all four divisions.</p>
 
-<p>For additional practice, CodeForces has an extensive selection of problems, sorted by rating, topic, or pretty much any other criterion you can think of.</p>
+<p>For additional practice, CodeForces has an extensive set of problems, sorted by rating, topic, or pretty much any other criterion you can think of.</p>
 
-<h3 id="im-stuck-where-can-i-get-help">I’m stuck. Where can I get help?</h3>
+<p>The website <a href="https://cses.fi/problemset/">CSES</a> has an excellent selection of standard problems. I recommend solving all of Introductory Problems except the last two problems, roughly the first half of Sorting and Searching, and the first six problems from Graph Algorithms.</p>
 
-<p>Asking in the (unofficial) <a href="discord.gg/bessMBe">USACO Discord Server</a> is probably a good place to start. We have channels called #cp-discussion and #cp-help specifically dedicated to questions about competitive programming.</p>
-
-<p>When should I read the solution?</p>
+<h3 id="when-should-i-read-the-solution">When should I read the solution?</h3>
 
 <p>In general, I think it’s fine to read the solution relatively early on, as long as you’ve made several different attempts at it and you can learn effectively from the solution.</p>
 
@@ -61,10 +59,6 @@ Python is the easiest to learn, but it also runs slowly, which is often problema
 <h3 id="should-i-implement-every-problem-that-i-solve">Should I implement every problem that I solve?</h3>
 
 <p>Usually, yes. Solving competitive programming problems consists of two parts: coming up with the algorithm, and implementing the algorithm. You should implement so that you practice both parts.</p>
-
-<h3 id="can-you-solve-x-problem-for-me">Can you solve X problem for me?</h3>
-
-<p>I might sometimes answer questions on the USACO server, but I do tend to be rather busy. If you ask there, you’re likely to find someone who can help you.</p>
 
 <h3 id="is-it-possible-to-go-from-x-division-to-y-division-in-z-amount-of-time">Is it possible to go from X division to Y division in Z amount of time?</h3>
 

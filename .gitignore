@@ -5,6 +5,7 @@ yarn.lock
 Gemfile.lock
 package-lock.json
 node_modules/
+archived/
 
 ### macOS ###
 *.DS_Store
