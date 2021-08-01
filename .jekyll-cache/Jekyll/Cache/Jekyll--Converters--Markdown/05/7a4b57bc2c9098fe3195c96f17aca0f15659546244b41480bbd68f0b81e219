@@ -1,4 +1,4 @@
-I"'.<h2 id="some-frequently-and-not-so-frequently-asked-questions-about-the-usa-computing-olympiad">Some frequently (and not-so-frequently) asked questions about the USA Computing Olympiad.</h2>
+I"�-<h2 id="some-frequently-and-not-so-frequently-asked-questions-about-the-usa-computing-olympiad">Some frequently (and not-so-frequently) asked questions about the USA Computing Olympiad.</h2>
 
 <p>Hello, everyone!</p>
 
@@ -19,12 +19,13 @@ By far the most common question I receive is “can I get from some level to som
 
 <h3 id="what-language-should-i-use">What language should I use?</h3>
 
-<p>USACO supports five languages: C, C++, Java, Pascal, and Python. Firstly, nobody uses Pascal, and C is a strictly inferior version of C++ so you shouldn’t use either of them. Now, for the three languages that actually get used:
-Python is the easiest to learn, but it also runs slowly, which is often problematic despite the longer runtime. USACO problemsetters have stated that they don’t test Python solutions, and many problems are simply impossible to pass in Python.</p>
+<p>USACO supports five languages: C, C++, Java, Pascal, and Python. Firstly, hardly anyone uses Pascal, and C is a strictly inferior version of C++ for competitive programming because it has less functionality, so you shouldn’t use either of them. Now, for the three languages that actually get used:</p>
 
-<p>C++ is the most commonly used language, and for good reason; it runs the fastest, and code is short. C++ also has macros, defines, and other similar things for shortening code (although often at the expense of readability…) It also has a standard library containing many data structures that you’ll use often.</p>
-
-<p>Java is also commonly used. It runs slower than C++, but is given a longer runtime. Java runtime generally isn’t too much of an issue, even at higher levels of competition (A member of the 2020 USA IOI team uses Java). Its standard library is very similar to that of C++. Java code, however, tends to be rather verbose. I prefer Java for several reasons: it’s very intuitive, debugging is easy, and its behavior is more consistent (C++ ordered set upper and lower bound functions: one of them is inclusive and one of them is exclusive, while in Java both are exclusive).</p>
+<ul>
+  <li>Python is the easiest to learn, but it also runs slowly, which is often problematic despite the longer runtime. USACO problemsetters have stated that they don’t test Python solutions, and many problems are simply impossible to pass in Python.</li>
+  <li>C++ is the most commonly used language, and for good reason; it runs the fastest, and code is short. C++ also has macros, defines, and other similar things for shortening code (although often at the expense of readability…) It also has a standard library containing many data structures that you’ll use often.</li>
+  <li>Java is also commonly used. It runs slower than C++, but is given a longer runtime. Java runtime generally isn’t too much of an issue, even at higher levels of competition (A member of the 2020 USA IOI team uses Java). Its standard library is very similar to that of C++. Java code, however, tends to be rather verbose. I prefer Java for several reasons: it’s very intuitive, debugging is easy, and in my opinion some things in Java are easier to use than their C++ counterparts (I prefer Java ).</li>
+</ul>
 
 <h3 id="what-resources-should-i-use">What resources should I use?</h3>
 
@@ -88,7 +89,7 @@ Python is the easiest to learn, but it also runs slowly, which is often problema
 
 <h3 id="some-final-notes">Some Final Notes</h3>
 
-<p><a href="https://web.evanchen.cc/FAQs/raqs.html">This</a> and <a href="https://usamo.wordpress.com/2019/01/31/math-contest-platitudes-v3/">this</a> are two blog posts by Evan Chen that I find quite insightful. They discuss such things as time management, the problem-solving process, and other tips that you may find useful.
-There is also a USACO Discord Server (not affiliated with the USACO organization) for such purposes as post-contest discussion, and asking for help.
-I think this is all that I wanted to say, so I’ll leave off here. Best of luck!</p>
+<p><a href="https://web.evanchen.cc/FAQs/raqs.html">This</a> and <a href="https://usamo.wordpress.com/2019/01/31/math-contest-platitudes-v3/">this</a> are two blog posts by Evan Chen that I find quite insightful. The blog is primarily a math blog, but the posts discuss such things as time management, the problem-solving process, and other tips that you may find useful.</p>
+
+<p>I think this is all that I wanted to say, so I’ll leave off here. Best of luck!</p>
 :ET
